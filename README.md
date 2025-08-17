@@ -10,7 +10,7 @@
 
 ### Modelo com Transfer Learning: Atingiu uma precisão de teste de aproximadamente 71%.
 
-# A comparação demonstra uma melhoria significativa de mais de 30% na precisão, validando o poder do 'transfer learning' para tarefas de classificação de imagens com dados limitados.
+### A comparação demonstra uma melhoria significativa de mais de 30% na precisão, validando o poder do 'transfer learning' para tarefas de classificação de imagens com dados limitados.
 
 # Conceitos Chave
 ### Transfer Learning: O processo de utilizar o conhecimento aprendido por um modelo em um novo modelo.
